@@ -76,13 +76,37 @@ coverage.xml
 .pytest_cache/
 
 # Data Files (optional - uncomment if you don't want to track uploaded resumes)
-# data/
+# data/resumes/
 # uploads/
 
 # Compiled
 *.pyc
 *.pyo
 *.pyd
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+
+# API Keys and Secrets (double-check these are ignored)
+*.key
+*.pem
+*.env*
+!.env.example
+secrets.json
+credentials.json
+
+# LLM and AI Model files
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+models/
+checkpoints/
 
 # Packages
 *.7z
@@ -107,3 +131,29 @@ dmypy.json
 
 # Cython
 cython_debug/
+
+# Node modules (if you add any JS tooling)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
