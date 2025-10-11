@@ -1,0 +1,720 @@
+id,provider,model,prompt_preview,input_tokens,output_tokens,total_tokens,cost_input,cost_output,created_at
+1,RunnableSequence,unknown,"About Us
+
+BlackDuck is a new venture dedicated to building world-class digital products. We believe in fostering talent and growing our team from the ground up. We are looking for passionate and curious individuals to join us on our journey. Our culture is built on mentorship, collaboration, and a shared desire to learn and build amazing things.
+
+The Opportunity
+
+This is not a typical junior role where you’ll be stuck on minor bug fixes. We are looking for a Junior Software E...<truncated>",713,74,787,NULL,NULL,2025-10-06 09:37:39
+2,RunnableSequence,unknown,"About Us
+
+BlackDuck is a new venture dedicated to building world-class digital products. We believe in fostering talent and growing our team from the ground up. We are looking for passionate and curious individuals to join us on our journey. Our culture is built on mentorship, collaboration, and a shared desire to learn and build amazing things.
+
+The Opportunity
+
+This is not a typical junior role where you’ll be stuck on minor bug fixes. We are looking for a Junior Software E...<truncated>",1898,108,2006,NULL,NULL,2025-10-06 09:37:45
+3,RunnableSequence,unknown,"About Us
+
+BlackDuck is a new venture dedicated to building world-class digital products. We believe in fostering talent and growing our team from the ground up. We are looking for passionate and curious individuals to join us on our journey. Our culture is built on mentorship, collaboration, and a shared desire to learn and build amazing things.
+
+The Opportunity
+
+This is not a typical junior role where you’ll be stuck on minor bug fixes. We are looking for a Junior Software E...<truncated>",2238,118,2356,NULL,NULL,2025-10-06 09:37:50
+4,RunnableSequence,unknown,"About Us
+
+BlackDuck is a new venture dedicated to building world-class digital products. We believe in fostering talent and growing our team from the ground up. We are looking for passionate and curious individuals to join us on our journey. Our culture is built on mentorship, collaboration, and a shared desire to learn and build amazing things.
+
+The Opportunity
+
+This is not a typical junior role where you’ll be stuck on minor bug fixes. We are looking for a Junior Software E...<truncated>",717,68,785,NULL,NULL,2025-10-06 12:34:11
+5,RunnableSequence,unknown,"About Us
+
+BlackDuck is a new venture dedicated to building world-class digital products. We believe in fostering talent and growing our team from the ground up. We are looking for passionate and curious individuals to join us on our journey. Our culture is built on mentorship, collaboration, and a shared desire to learn and build amazing things.
+
+The Opportunity
+
+This is not a typical junior role where you’ll be stuck on minor bug fixes. We are looking for a Junior Software E...<truncated>",1902,116,2018,NULL,NULL,2025-10-06 12:34:18
+6,RunnableSequence,unknown,"About Us
+
+BlackDuck is a new venture dedicated to building world-class digital products. We believe in fostering talent and growing our team from the ground up. We are looking for passionate and curious individuals to join us on our journey. Our culture is built on mentorship, collaboration, and a shared desire to learn and build amazing things.
+
+The Opportunity
+
+This is not a typical junior role where you’ll be stuck on minor bug fixes. We are looking for a Junior Software E...<truncated>",2210,124,2334,NULL,NULL,2025-10-06 12:34:20
+7,RunnableSequence,unknown,"About Us
+
+BlackDuck is a new venture dedicated to building world-class digital products. We believe in fostering talent and growing our team from the ground up. We are looking for passionate and curious individuals to join us on our journey. Our culture is built on mentorship, collaboration, and a shared desire to learn and build amazing things.
+
+The Opportunity
+
+This is not a typical junior role where you’ll be stuck on minor bug fixes. We are looking for a Junior Software E...<truncated>",717,68,785,NULL,NULL,2025-10-06 13:00:45
+8,RunnableSequence,unknown,"About Us
+
+BlackDuck is a new venture dedicated to building world-class digital products. We believe in fostering talent and growing our team from the ground up. We are looking for passionate and curious individuals to join us on our journey. Our culture is built on mentorship, collaboration, and a shared desire to learn and build amazing things.
+
+The Opportunity
+
+This is not a typical junior role where you’ll be stuck on minor bug fixes. We are looking for a Junior Software E...<truncated>",2210,132,2342,NULL,NULL,2025-10-06 13:00:54
+9,RunnableSequence,unknown,"About Us
+
+BlackDuck is a new venture dedicated to building world-class digital products. We believe in fostering talent and growing our team from the ground up. We are looking for passionate and curious individuals to join us on our journey. Our culture is built on mentorship, collaboration, and a shared desire to learn and build amazing things.
+
+The Opportunity
+
+This is not a typical junior role where you’ll be stuck on minor bug fixes. We are looking for a Junior Software E...<truncated>",1902,130,2032,NULL,NULL,2025-10-06 13:00:57
+10,RunnableSequence,unknown,"We are looking for an experienced Android developer responsible for the development and maintenance of applications aimed at a vast number of diverse Android devices.
+
+Your primary focus will be the development of Android applications, their integration with back-end and AI-powered services, and efficient network communication. You will be working alongside other engineers and developers across different layers of the infrastructure. A strong commitment to collaborative probl...<truncated>",588,74,662,NULL,NULL,2025-10-06 13:11:01
+11,RunnableSequence,unknown,"We are looking for an experienced Android developer responsible for the development and maintenance of applications aimed at a vast number of diverse Android devices.
+
+Your primary focus will be the development of Android applications, their integration with back-end and AI-powered services, and efficient network communication. You will be working alongside other engineers and developers across different layers of the infrastructure. A strong commitment to collaborative probl...<truncated>",1772,115,1887,NULL,NULL,2025-10-06 13:11:05
+12,RunnableSequence,unknown,"We are looking for an experienced Android developer responsible for the development and maintenance of applications aimed at a vast number of diverse Android devices.
+
+Your primary focus will be the development of Android applications, their integration with back-end and AI-powered services, and efficient network communication. You will be working alongside other engineers and developers across different layers of the infrastructure. A strong commitment to collaborative probl...<truncated>",2080,98,2178,NULL,NULL,2025-10-06 13:11:06
+13,RunnableSequence,unknown,"We are looking for an experienced Android developer responsible for the development and maintenance of applications aimed at a vast number of diverse Android devices.
+
+Your primary focus will be the development of Android applications, their integration with back-end and AI-powered services, and efficient network communication. You will be working alongside other engineers and developers across different layers of the infrastructure. A strong commitment to collaborative problem-solving, sophisticated design, and creating high-quality products is essential.
+
+Responsibilities:
+
+Design and develop advanced Android applications for various devices and screen sizes.
+Collaborate with cross-functional teams to define, design, and ship new features — including AI-driven functionalities and real-time networked components.
+Optimize network usage and ensure secure, efficient communication with remote services via REST, GraphQL, or WebSockets.
+Integrate machine learning models and AI APIs into Android apps for enhanced user experiences (e.g., personalization, smart predictions, computer vision).
+Work on bug fixing and improving application performance, especially around networking and asynchronous operations.
+Continuously discover, evaluate, and implement new technologies — including AI/ML tools and network optimization techniques — to maximize development efficiency.
+Mentor and provide technical guidance to junior developers.
+Participate in code reviews and ensure code quality and best practices.
+Stay up-to-date with the latest industry trends in Android, mobile networking, and AI integration
+---
+Job Requirements
+Bachelor's degree in Computer Science or a related field.
+3+ years of experience in Android development with a strong portfolio of published apps.
+Proficient in Java and Kotlin programming languages.
+Experience with Android SDK, Android Studio, and related development tools.
+Solid understanding of Android UI/UX design principles, patterns, and best practices.
+Strong experience working with RESTful APIs, JSON, GraphQL, and modern networking libraries (e.g., OkHttp, Retrofit).
+Familiarity with on-device machine learning (ML Kit, TensorFlow Lite) or cloud-based AI services (Firebase ML, OpenAI APIs, Google Cloud AI).
+Knowledge of best practices for network security, caching, and background data sync.
+Experience with multithreading, RxJava, Kotlin Coroutines, and asynchronous network operations.
+Strong analytical and debugging skills.
+Excellent communication and collaboration abilities.
+Proficiency with Git or other version control systems.
+Experience with CI/CD pipelines and automated testing frameworks is a plus.
+Benefits:
+
+Competitive salary
+Social Insurance without Any deduction from the Salary
+Medical Insurance without Any deduction from the Salary
+5 working days & 8 daily Hours including 1 hour Break
+Gaming area
+Continues training.
+---
+RESUME_ID:17
+---
+",588,69,657,NULL,NULL,2025-10-06 13:14:17
+14,RunnableSequence,unknown,"We are looking for an experienced Android developer responsible for the development and maintenance of applications aimed at a vast number of diverse Android devices.
+
+Your primary focus will be the development of Android applications, their integration with back-end and AI-powered services, and efficient network communication. You will be working alongside other engineers and developers across different layers of the infrastructure. A strong commitment to collaborative problem-solving, sophisticated design, and creating high-quality products is essential.
+
+Responsibilities:
+
+Design and develop advanced Android applications for various devices and screen sizes.
+Collaborate with cross-functional teams to define, design, and ship new features — including AI-driven functionalities and real-time networked components.
+Optimize network usage and ensure secure, efficient communication with remote services via REST, GraphQL, or WebSockets.
+Integrate machine learning models and AI APIs into Android apps for enhanced user experiences (e.g., personalization, smart predictions, computer vision).
+Work on bug fixing and improving application performance, especially around networking and asynchronous operations.
+Continuously discover, evaluate, and implement new technologies — including AI/ML tools and network optimization techniques — to maximize development efficiency.
+Mentor and provide technical guidance to junior developers.
+Participate in code reviews and ensure code quality and best practices.
+Stay up-to-date with the latest industry trends in Android, mobile networking, and AI integration
+---
+Job Requirements
+Bachelor's degree in Computer Science or a related field.
+3+ years of experience in Android development with a strong portfolio of published apps.
+Proficient in Java and Kotlin programming languages.
+Experience with Android SDK, Android Studio, and related development tools.
+Solid understanding of Android UI/UX design principles, patterns, and best practices.
+Strong experience working with RESTful APIs, JSON, GraphQL, and modern networking libraries (e.g., OkHttp, Retrofit).
+Familiarity with on-device machine learning (ML Kit, TensorFlow Lite) or cloud-based AI services (Firebase ML, OpenAI APIs, Google Cloud AI).
+Knowledge of best practices for network security, caching, and background data sync.
+Experience with multithreading, RxJava, Kotlin Coroutines, and asynchronous network operations.
+Strong analytical and debugging skills.
+Excellent communication and collaboration abilities.
+Proficiency with Git or other version control systems.
+Experience with CI/CD pipelines and automated testing frameworks is a plus.
+Benefits:
+
+Competitive salary
+Social Insurance without Any deduction from the Salary
+Medical Insurance without Any deduction from the Salary
+5 working days & 8 daily Hours including 1 hour Break
+Gaming area
+Continues training.
+---
+RESUME_ID:18
+---
+MOHAMMED
+  
+OSAMA
+ 
+Egypt:
++201129242211
+ 
+mo0441880@gmail.com
+ 
+.
+ 
+linkedin.com/in/mohammedosamakhatab/
+ 
+.
+ 
+github.com/Mohammedosama111
+ 
+ 
+Passionate
+ 
+about
+ 
+advancing
+ 
+innovation
+ 
+in
+ 
+AI
+ 
+and
+ 
+data
+ 
+science,
+ 
+specializing
+ 
+in
+ 
+developing
+ 
+and
+ 
+implementing
+ 
+cutting-edge
+ 
+technological
+ 
+solutions
+ 
+to
+ 
+solve
+ 
+complex
+ 
+challenges.
+ 
+My
+ 
+expertise
+ 
+in
+ 
+data
+ 
+science,
+ 
+data
+ 
+analysis,
+ 
+machine
+ 
+learning,
+ 
+and
+ 
+AI
+ 
+is
+ 
+aimed
+ 
+at
+ 
+driving
+ 
+both
+ 
+technological
+ 
+progress
+ 
+and
+ 
+economic
+ 
+growth
+.
+ 
+Education
+ 
+ 
+Canadian
+ 
+International
+ 
+College:
+ 
+Data
+ 
+Science
+ 
+Major
+ 
+(September
+ 
+2023
+ 
+–
+ 
+July
+ 
+2025)
+ 
+●
+ 
+Data
+ 
+Structures
+ 
+&
+ 
+Algorithms
+ 
+ 
+ 
+ 
+•
+ 
+ 
+Object-Oriented
+ 
+Programming
+ 
+ 
+●
+ 
+Image
+ 
+&
+ 
+Speech
+ 
+Processing
+ 
+ 
+ 
+ 
+ 
+•
+ 
+ 
+Pattern
+ 
+Recognition
+ 
+ 
+●
+ 
+Machine
+ 
+Learning
+ 
+&
+ 
+Deep
+ 
+Learning
+ 
+ 
+ 
+ 
+•
+  
+Natural
+ 
+Language
+ 
+Processing
+ 
+(NLP)
+ 
+ 
+Data
+ 
+Science
+ 
+Scholarship
+ 
+(May
+ 
+2023
+ 
+–
+ 
+July
+ 
+2024)
+ 
+ 
+●
+ 
+ 
+Soft
+ 
+skills
+ 
+foundations
+ 
+program
+ 
+(ALX
+ 
+&
+ 
+African
+ 
+Leadership
+ 
+University)
+ 
+•
+ 
+Problem-solving
+ 
+&
+ 
+Formulation
+ 
+ 
+ 
+•
+ 
+Agile
+ 
+Development
+ 
+●
+ 
+Data
+ 
+Science
+ 
+&
+ 
+Artificial
+ 
+Intelligence
+ 
+Program
+ 
+(Explore
+ 
+AI
+ 
+Academy)
+ 
+ 
+•
+SQL
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+•
+ 
+Python
+ 
+•
+ 
+Data
+ 
+Analysis
+ 
+&
+ 
+Visualization
+ 
+ 
+ 
+ 
+ 
+•
+  
+NLP
+ 
+&
+ 
+Classification
+ 
+ 
+•
+ 
+Supervised
+ 
+&
+ 
+Unsupervised
+ 
+Learning
+ 
+ 
+ 
+ 
+•
+ 
+AWS
+ 
+Foundations
+ 
+Skills
+ 
+●
+ 
+Programming
+ 
+Languages:
+ 
+Python,
+ 
+R
+ 
+ 
+ 
+•
+ 
+Data
+ 
+Analysis
+ 
+●
+ 
+Machine
+ 
+Learning:
+ 
+ 
+ 
+ 
+ 
+ 
+•
+ 
+Data
+ 
+Visualization
+ 
+●
+ 
+Databases
+ 
+ 
+ 
+ 
+ 
+ 
+•
+ 
+Tools:
+ 
+Jupyter
+ 
+Notebooks,
+ 
+Git
+ 
+●
+ 
+All
+ 
+Microsoft
+ 
+Office
+ 
+Apps
+ 
+ 
+ 
+ 
+•
+ 
+Communication
+ 
+&
+ 
+Social
+ 
+Skills
+ 
+ 
+●
+ 
+Problem-Solving
+ 
+ 
+ 
+ 
+ 
+•
+ 
+Web
+ 
+Development
+ 
+●
+ 
+Leadership
+ 
+in
+ 
+Teams
+ 
+ 
+ 
+ 
+ 
+•
+ 
+Analytical
+ 
+Thinking
+ 
+Projects
+ 
+ 
+Electric
+ 
+vehicle
+ 
+Digital
+ 
+Twin
+ 
+Platform
+ 
+for
+ 
+real-time
+ 
+simulation
+ 
+and
+ 
+health
+ 
+monitoring
+ 
+|Python,
+ 
+pybamm,
+ 
+GYM,
+ 
+Real-Time
+ 
+Simulation
+ 
+(2025)
+ 
+●
+ 
+ 
+Designed
+ 
+and
+ 
+impleme...<truncated>",2080,107,2187,NULL,NULL,2025-10-06 13:14:25
+15,RunnableSequence,unknown,"We are looking for an experienced Android developer responsible for the development and maintenance of applications aimed at a vast number of diverse Android devices.
+
+Your primary focus will be the development of Android applications, their integration with back-end and AI-powered services, and efficient network communication. You will be working alongside other engineers and developers across different layers of the infrastructure. A strong commitment to collaborative problem-solving, sophisticated design, and creating high-quality products is essential.
+
+Responsibilities:
+
+Design and develop advanced Android applications for various devices and screen sizes.
+Collaborate with cross-functional teams to define, design, and ship new features — including AI-driven functionalities and real-time networked components.
+Optimize network usage and ensure secure, efficient communication with remote services via REST, GraphQL, or WebSockets.
+Integrate machine learning models and AI APIs into Android apps for enhanced user experiences (e.g., personalization, smart predictions, computer vision).
+Work on bug fixing and improving application performance, especially around networking and asynchronous operations.
+Continuously discover, evaluate, and implement new technologies — including AI/ML tools and network optimization techniques — to maximize development efficiency.
+Mentor and provide technical guidance to junior developers.
+Participate in code reviews and ensure code quality and best practices.
+Stay up-to-date with the latest industry trends in Android, mobile networking, and AI integration
+---
+Job Requirements
+Bachelor's degree in Computer Science or a related field.
+3+ years of experience in Android development with a strong portfolio of published apps.
+Proficient in Java and Kotlin programming languages.
+Experience with Android SDK, Android Studio, and related development tools.
+Solid understanding of Android UI/UX design principles, patterns, and best practices.
+Strong experience working with RESTful APIs, JSON, GraphQL, and modern networking libraries (e.g., OkHttp, Retrofit).
+Familiarity with on-device machine learning (ML Kit, TensorFlow Lite) or cloud-based AI services (Firebase ML, OpenAI APIs, Google Cloud AI).
+Knowledge of best practices for network security, caching, and background data sync.
+Experience with multithreading, RxJava, Kotlin Coroutines, and asynchronous network operations.
+Strong analytical and debugging skills.
+Excellent communication and collaboration abilities.
+Proficiency with Git or other version control systems.
+Experience with CI/CD pipelines and automated testing frameworks is a plus.
+Benefits:
+
+Competitive salary
+Social Insurance without Any deduction from the Salary
+Medical Insurance without Any deduction from the Salary
+5 working days & 8 daily Hours including 1 hour Break
+Gaming area
+Continues training.
+---
+RESUME_ID:19
+---
+Y oussef Hassan Ahmed  
+Frontend Developer | React.js | JavaScript  
+Address:  Haram St, Giza , Egypt . 
+Phone:  +20 1282388380 | +20 1062065931 – Email:  youssefhassan7666@gmail.com  
+LinkedIn: https://www.linkedin.com/in/youssef -hassan -professional1/   
+GitHub:  https://github.com/Youssef -Hassan -Git       
+Profile  
+ 
+Frontend developer specializing in React.js, skilled in building sca lable single -page applications  with authentication, 
+state management, and responsive UI/UX design. Proficient in React Query, Context API, Tailwind CSS, and modern 
+frontend practices. Familiar with Angular and Typescript , with hands -on experience delivering e -commerce 
+platforms, portfo lio websites, and user authentication systems. Strong foundation in software engineering and 
+performance optimization, passionate about creating accessible, mai ntainable, and high -performance applications.  
+Education  
+ 
+B.Sc. in Computer Science – Major in D ata Science  
+Canadian International College (CIC), Cairo, Egypt | 2021 –2025  
+GPA: 3.67 – Grade : (Excellent ) 
+Work Experience  
+ 
+ 
+Software Engineer Intern – National Authority for Remote Sensing & Space Scienc e | July 2024 –  
+Sept 2024  
+ Developed an advanced desktop application using PyQt for image viewing and enhancement.  
+ Trained and i ntegrated AI -powered ESRGAN model to enhance  image quality  for remote sensing 
+data . 
+ Implemented tools for image processing, filtering, and spectral band isolation.  
+Projects  
+ 
+Qualitronix – AI PCB Defect Detection System (Graduation Project, A+) |  Oct 2024  – May 2025   
+ Created Figma prototypes for web and mobile applications, ensuring UI/UX consistency.  
+ Developed frontend authentication system (login, register, logout) and user profile management 
+(update user data) in React.js.  
+ Designed and implemented an AI -based PCB defect detection system using YOLOv8 and an 
+enhanced YOLOv8 + BiFPN + CoordAtt model, achieving higher detection accuracy.  
+ Collected and preprocessed PCB defect datasets to improve model robustness and 
+generaliz...<truncated>",1772,94,1866,NULL,NULL,2025-10-06 13:14:26

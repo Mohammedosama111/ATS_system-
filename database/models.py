@@ -26,7 +26,14 @@ class Decision(Base):
     resume_id: Mapped[int] = mapped_column(ForeignKey("resumes.id"))
     decision: Mapped[str] = mapped_column(String(16))  # "approved" | "rejected"
     rationale: Mapped[str] = mapped_column(Text)
+    # New categorization fields (nullable for backward compatibility)
+    category: Mapped[str | None] = mapped_column(String(1), nullable=True)  # 'A' | 'B' | 'C'
+    match_score: Mapped[int | None] = mapped_column(Integer, nullable=True)  # 0-100
     created_at: Mapped[DateTime] = mapped_column(DateTime(timezone=True), server_default=func.now())
 
     job = relationship("Job", back_populates="decisions")
     resume = relationship("Resume", back_populates="decisions")
+
+
+## Usage model removed (token tracking disabled)
+

@@ -1,0 +1,22 @@
+id,provider,model,prompt_preview,input_tokens,output_tokens,total_tokens,cost_input,cost_output,created_at
+1,RunnableSequence,unknown,"About Us
+
+BlackDuck is a new venture dedicated to building world-class digital products. We believe in fostering talent and growing our team from the ground up. We are looking for passionate and curious individuals to join us on our journey. Our culture is built on mentorship, collaboration, and a shared desire to learn and build amazing things.
+
+The Opportunity
+
+This is not a typical junior role where you’ll be stuck on minor bug fixes. We are looking for a Junior Software E...<truncated>",713,68,781,NULL,NULL,2025-10-06 09:03:52
+2,RunnableSequence,unknown,"About Us
+
+BlackDuck is a new venture dedicated to building world-class digital products. We believe in fostering talent and growing our team from the ground up. We are looking for passionate and curious individuals to join us on our journey. Our culture is built on mentorship, collaboration, and a shared desire to learn and build amazing things.
+
+The Opportunity
+
+This is not a typical junior role where you’ll be stuck on minor bug fixes. We are looking for a Junior Software E...<truncated>",2206,119,2325,NULL,NULL,2025-10-06 09:04:02
+3,RunnableSequence,unknown,"About Us
+
+BlackDuck is a new venture dedicated to building world-class digital products. We believe in fostering talent and growing our team from the ground up. We are looking for passionate and curious individuals to join us on our journey. Our culture is built on mentorship, collaboration, and a shared desire to learn and build amazing things.
+
+The Opportunity
+
+This is not a typical junior role where you’ll be stuck on minor bug fixes. We are looking for a Junior Software E...<truncated>",1898,126,2024,NULL,NULL,2025-10-06 09:04:02
